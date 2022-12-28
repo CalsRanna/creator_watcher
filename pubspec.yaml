@@ -1,5 +1,5 @@
 name: creator_watcher
-description: A new Flutter package project.
+description: A widget wrap creator's watcher which is simple to use especially for emitter.
 version: 0.0.1
 homepage:
 repository: https://github.com/CalsRanna/creator_watcher
