@@ -1,15 +1,15 @@
 name: creator_watcher
 description: A widget wrap creator's watcher which is simple to use especially for emitter.
-version: 0.0.1
+version: 0.0.2
 homepage:
 repository: https://github.com/CalsRanna/creator_watcher
 
 environment:
-  sdk: '>=2.18.6 <3.0.0'
+  sdk: ">=2.18.6 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
-  creator: ^0.2.2
+  creator: ^0.3.0
   flutter:
     sdk: flutter
 
